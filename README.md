@@ -18,6 +18,10 @@ Design and verification of a 4-bit Ripple Carry Adder using CMOS-based Full Adde
 3. Click Run
 4. Check Output: Sum and Cout values
 
+ ## Output Screenshot
+ 
+![Output](output.png)
+
 ## Test Cases
 - 0000 + 0000 = 0000
 - 0011 + 0101 = 1000
